@@ -8,6 +8,7 @@ import Layout from "./component/layout/Layout";
 // Route is to define different paths in the URL we wanna listen to
 // and which component should be loaded
 function App() {
+  console.log("I lobbbbbbbbb you");
   // current domain localhost:3000/
   // exact is used for switch not just matching / but the whole paths
   return (
